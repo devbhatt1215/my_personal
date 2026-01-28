@@ -194,9 +194,10 @@
         
         <div class="gallery">
             <h3>The first love letter you gave me ❤️😝..</h3>
-            <div><img src="7c8d548c-2fbd-43d4-9eb2-7b71c42dd1e0.jpg" alt="images" width="270" height="200"></div>
+            <div><img src="7c8d548c-2fbd-43d4-9eb2-7b71c42dd1e0.jpg" alt="images" width="300" height="200"></div>
+<nav></nav>
            <h3>The gift you made for me on my birthday (15 december,2025)❤️..</h3>
-            <div><img src="WhatsApp Image 2026-01-27 at 10.38.10 PM.jpeg" alt="images" width="230" height="200"></div>
+            <div><img src="a3240363-9fd3-4d26-b216-f952f3c0fcd2.jpg" alt="images" width="300" height="200"></div>
            
         
         </div>
@@ -292,4 +293,3 @@
 
 </body>
 </html>
-
