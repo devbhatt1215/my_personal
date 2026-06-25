@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
     <title>Ankita ❤️ Dev</title>
     <style>
@@ -88,23 +86,15 @@
             from { transform: scale(1); }
             to { transform: scale(1.2); }
         }
-    </style>
-</head>
-<body>
-
-<header>
+    </style></head><body><header>
     <h1>Ankita ❤️ Dev</h1>
     <p>Celebrating 1 Year of Love, Memories & Togetherness </p>
-    <div class="heart">💖</div>
-</header>
-
-<section>
+    <div class="heart">💖</div></header><section>
     <div class="card">
     <h2>Our Song 🎶</h2>
     <audio controls loop>
         <source src="Chaar Kadam - PK 320 Kbps.mp3" type="audio/mpeg">
-    </audio>
-</div>
+    </audio></div>
 
     <div class="card">
         <h2>Our Story ❤️😝🧿</h2>
@@ -194,8 +184,7 @@
         
         <div class="gallery">
             <h3>The first love letter you gave me ❤️😝..</h3>
-            <div><img src="7c8d548c-2fbd-43d4-9eb2-7b71c42dd1e0.jpg" alt="images" width="300" height="200"></div>
-<nav></nav>
+            <div><img src="7c8d548c-2fbd-43d4-9eb2-7b71c42dd1e0.jpg" alt="images" width="300" height="200"></div><nav></nav>
            <h3>The gift you made for me on my birthday (15 december,2025)❤️..</h3>
             <div><img src="a3240363-9fd3-4d26-b216-f952f3c0fcd2.jpg" alt="images" width="300" height="200"></div>
            
@@ -221,9 +210,7 @@
         <p style="margin-top:15px; font-size:0.9rem;">
         
         </p>
-    </div>
-
-   <div class="card">
+    </div> <div class="card">
     <h2>Our Special Videos 🎥</h2>
 
     <div class="video-box">
@@ -260,8 +247,7 @@
         <video controls>
             <source src="WhatsApp Video 2026-01-27 at 11.39.12 PM.mp4" type="video/mp4">
         </video>
-    </div>
-</div>
+    </div></div>
 
 
     <div class="card">
@@ -283,13 +269,6 @@
             you complete me ankita 🥹❤️aapke aane ke baad mai complete hua hu 🫠❤️....
             isliye I love you Ankita 🧿🫠❤️ please merko kbhi chhod ke mtt jana jii 🫠❤️
         </p>
-    </div>
-</section>
-
-<footer>
+    </div></section><footer>
     Made with ❤️ by Dev for Ankita <br>
-    Forever & Always ✨
-</footer>
-
-</body>
-</html>
+    Forever & Always ✨</footer></body></html>
